@@ -1,0 +1,46 @@
+.container{
+    display:flex;
+    height:500px;
+    width:500px;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    background-color: antiquewhite;
+border:7px white solid;
+position:fixed;
+left:100px;
+top:200px;
+    ;
+}
+.container div{
+    height:180px;
+    width:180px;
+    padding:10px 10px 10px 10px;
+    
+    margin:10px;
+    border:7px black solid;
+    
+border-radius:10px;
+}
+.btn1{
+    background-color: aqua;
+}
+.btn2{
+    background-color:green;
+}
+.btn3{
+    background-color: red;
+}
+.btn4{
+    background-color:yellow;
+}
+ .flash {background-color:white;
+    background-color: antiquewhite;
+}
+h2{
+    position:fixed;
+left:190px;
+top:50px;
+}
+.game{
+    background-color: black;
+}
